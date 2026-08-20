@@ -2,6 +2,15 @@
 
 Backup of local Warp/agent config.
 
+## Restore
+
+```bash
+git clone -b vitou/feature/init <repo-url> warp-backup
+bash warp-backup/restore.sh
+```
+
+Then restart Warp.
+
 ## Restore paths (Windows)
 
 - `launch_configurations/` → `%APPDATA%\warp\Warp\data\launch_configurations\`
