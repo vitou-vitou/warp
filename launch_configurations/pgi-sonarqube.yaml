@@ -1,0 +1,7 @@
+---
+name: pgi-sonarqube
+windows:
+  - tabs:
+      - title: pgi-sonarqube
+        layout:
+          cwd: D:\vitou\projects\pgi-sonarqube

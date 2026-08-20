@@ -1,0 +1,7 @@
+---
+name: pgi-core-frontend-master
+windows:
+  - tabs:
+      - title: pgi-core-frontend-master
+        layout:
+          cwd: D:\vitou\projects\pgi-core-frontend-master

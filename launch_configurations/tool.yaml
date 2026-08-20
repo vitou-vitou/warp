@@ -1,0 +1,7 @@
+---
+name: tool
+windows:
+  - tabs:
+      - title: tool
+        layout:
+          cwd: D:\vitou\projects\tool

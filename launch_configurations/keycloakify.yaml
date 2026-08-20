@@ -1,0 +1,7 @@
+---
+name: keycloakify
+windows:
+  - tabs:
+      - title: keycloakify
+        layout:
+          cwd: D:\vitou\projects\keycloakify

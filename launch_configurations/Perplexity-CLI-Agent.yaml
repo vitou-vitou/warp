@@ -1,0 +1,7 @@
+---
+name: Perplexity-CLI-Agent
+windows:
+  - tabs:
+      - title: Perplexity-CLI-Agent
+        layout:
+          cwd: D:\vitou\projects\Perplexity-CLI-Agent

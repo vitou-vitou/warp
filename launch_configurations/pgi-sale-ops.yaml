@@ -1,0 +1,7 @@
+---
+name: pgi-sale-ops
+windows:
+  - tabs:
+      - title: pgi-sale-ops
+        layout:
+          cwd: D:\vitou\projects\pgi-sale-ops

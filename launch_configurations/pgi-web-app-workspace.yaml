@@ -1,0 +1,7 @@
+---
+name: pgi-web-app-workspace
+windows:
+  - tabs:
+      - title: pgi-web-app-workspace
+        layout:
+          cwd: D:\vitou\projects\pgi-web-app-workspace

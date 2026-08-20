@@ -1,0 +1,7 @@
+---
+name: pgi-core-frontend-feature-buglary-policy
+windows:
+  - tabs:
+      - title: pgi-core-frontend-feature-buglary-policy
+        layout:
+          cwd: D:\vitou\projects\pgi-core-frontend-feature-buglary-policy

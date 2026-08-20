@@ -1,0 +1,7 @@
+---
+name: pgi-core-frontend-approval-prd
+windows:
+  - tabs:
+      - title: pgi-core-frontend-approval-prd
+        layout:
+          cwd: D:\vitou\projects\pgi-core-frontend-approval-prd

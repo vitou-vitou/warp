@@ -1,0 +1,7 @@
+---
+name: keycloak-sms-otp-spi
+windows:
+  - tabs:
+      - title: keycloak-sms-otp-spi
+        layout:
+          cwd: D:\vitou\projects\keycloak-sms-otp-spi

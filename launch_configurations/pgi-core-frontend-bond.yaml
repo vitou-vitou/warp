@@ -1,0 +1,7 @@
+---
+name: pgi-core-frontend-bond
+windows:
+  - tabs:
+      - title: pgi-core-frontend-bond
+        layout:
+          cwd: D:\vitou\projects\pgi-core-frontend-bond

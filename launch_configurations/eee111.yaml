@@ -1,0 +1,7 @@
+---
+name: eee111
+windows:
+  - tabs:
+      - title: eee111
+        layout:
+          cwd: D:\vitou\projects\eee111

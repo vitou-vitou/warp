@@ -1,0 +1,7 @@
+---
+name: vitou-opencodex
+windows:
+  - tabs:
+      - title: vitou-opencodex
+        layout:
+          cwd: D:\vitou\projects\vitou-opencodex

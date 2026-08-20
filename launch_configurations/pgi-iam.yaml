@@ -1,0 +1,7 @@
+---
+name: pgi-iam
+windows:
+  - tabs:
+      - title: pgi-iam
+        layout:
+          cwd: D:\vitou\projects\pgi-iam

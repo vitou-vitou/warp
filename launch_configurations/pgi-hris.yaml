@@ -1,0 +1,7 @@
+---
+name: pgi-hris
+windows:
+  - tabs:
+      - title: pgi-hris
+        layout:
+          cwd: D:\vitou\projects\pgi-hris

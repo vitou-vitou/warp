@@ -1,0 +1,7 @@
+---
+name: vue3-official
+windows:
+  - tabs:
+      - title: vue3-official
+        layout:
+          cwd: D:\vitou\projects\vue3-official

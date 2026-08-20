@@ -1,0 +1,7 @@
+---
+name: pgi-policy-issuance-service
+windows:
+  - tabs:
+      - title: pgi-policy-issuance-service
+        layout:
+          cwd: D:\vitou\projects\pgi-policy-issuance-service

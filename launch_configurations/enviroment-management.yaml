@@ -1,0 +1,7 @@
+---
+name: enviroment-management
+windows:
+  - tabs:
+      - title: enviroment-management
+        layout:
+          cwd: D:\vitou\projects\enviroment-management

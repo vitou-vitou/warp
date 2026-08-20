@@ -1,0 +1,7 @@
+---
+name: pgi-apify
+windows:
+  - tabs:
+      - title: pgi-apify
+        layout:
+          cwd: D:\vitou\projects\pgi-apify

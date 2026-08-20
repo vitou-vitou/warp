@@ -1,0 +1,7 @@
+---
+name: pgi-customer-portal
+windows:
+  - tabs:
+      - title: pgi-customer-portal
+        layout:
+          cwd: D:\vitou\projects\pgi-customer-portal
